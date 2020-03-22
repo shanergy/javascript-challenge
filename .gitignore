@@ -1,0 +1,10 @@
+# ignore these files:
+index_v1.html
+index_v2.html
+nasa.jpg
+app_test_unused_code.js
+app_v1.js
+app_v2.js
+
+# ignore these directories/folders:
+UFO-level-2
